@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gurnoor Singh Narula, an Electrical Engineering & Computer Science and Business Admisitration student @ UC Berkeley '24
+- 👋 Hi, I’m Gurnoor Singh Narula, an Electrical Engineering & Computer Science and Business Admisitration student @ UC Berkeley '24, and a Research Analyst at Placeholder VC.
 - 👀 I’m interested in the future of blockchain technologies, focusing primarily on the use cases of DeFi, yield farming, and cryptocurrencies
 - 📫 How to reach me:
      - Website: www.gurnoornarula.com
